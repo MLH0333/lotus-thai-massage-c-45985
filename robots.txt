@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://MLH0333.github.io/lotus-thai-massage-c-45985/sitemap.xml
